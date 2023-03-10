@@ -1,1 +1,1 @@
-# MRSearchContextIn3File
+# MRSearchContextIn3File or a directory of files
